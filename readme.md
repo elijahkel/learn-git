@@ -2,4 +2,4 @@
 
 ```
 
-`console.lg('hello world)`
+`console.lg('hello world')`
